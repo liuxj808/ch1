@@ -1,0 +1,11 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="defaultLombokData">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>

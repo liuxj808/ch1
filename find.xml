@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>UserContext.j</mask>
+      <mask>UserContext.ja</mask>
+      <mask>UserContext.java</mask>
+      <mask>GameController.java</mask>
+      <mask>WorkController.java</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*。xm</mask>
+      <mask>*。x</mask>
+      <mask>*.xm</mask>
+      <mask>StudentService.java</mask>
+      <mask>*。java</mask>
+      <mask>*。jav</mask>
+      <mask>*。ja</mask>
+      <mask>*.x'm'l</mask>
+      <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.*</mask>
+      <mask>.java</mask>
+      <mask>TeacherService .java</mask>
+      <mask>TeacherService.java</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

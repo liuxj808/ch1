@@ -1,0 +1,31 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/AppData/Roaming/npm/node_modules/electron/dist/electron.exe">
+      <version-cache last-modified="1513682749700" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.9.1" last-modified="1510060862000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://112.74.16.148:18080/svn/zdcx-service/trunk/zdcx-project/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://112.74.16.148:18080/svn/zdcx-service/trunk/zdcx-project/" />
+        <option value="https://hxq-server/svn/平台部/" />
+      </list>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://120.79.140.10:8111&amp;^%$#@liuxiaojun@#$%^&amp;http://192.168.1.249:8111&amp;^%$#@zhouxianjun@#$%^&amp;http://buildserver&amp;^%$#@zhouxianjun" />
+  </component>
+</application>
