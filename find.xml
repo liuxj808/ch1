@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>UserContext.j</mask>
       <mask>UserContext.ja</mask>
@@ -24,17 +24,17 @@
       <mask>*.x'm'l</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.*</mask>
       <mask>.java</mask>
       <mask>TeacherService .java</mask>
       <mask>TeacherService.java</mask>
       <mask>*。</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
