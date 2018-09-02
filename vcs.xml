@@ -42,6 +42,10 @@
           <option name="url" value="http://120.79.140.10:3000/haoxuequ/business.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://120.79.140.10:3000/haoxuequ/hxqteacher-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\working\ideaProjects\" />
